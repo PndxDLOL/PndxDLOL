@@ -36,5 +36,7 @@ Disfruto mucho del trabajo en equipo 🤝🏽, considero que es una parte vital 
   </br>
   
 Puedes contactarme por Correo 📨 : rjuandavid39@gmail.com o  LinkedIn 🤳🏽: https://www.linkedin.com/in/juanrodleg99/
+</br>
+
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PndxDLOL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juanrodleg99/)
   
