@@ -12,7 +12,7 @@ Soy una persona apasionada por el aprendizaje y los retos 🤓. Curso 2do año d
 
 Disfruto mucho del trabajo en equipo 🤝🏽, considero que es una parte vital del aprendizaje y del progreso laboral. Soy proactivo y busco poder desarrollar nuevas cosas en mi vida, adaptándome a las circunstancias. 
 
-💻✨ Mis Skills: HTML5, CSS3, JavaScript, ReactJS, Redux, TypeScript, NodeJS, Express, SQL, Sequelize, PostgreSQL, Git y dispuesto a aprender nuevas tecnologías y lenguajes 🤓.
+💻✨ Mis Skills: HTML5, CSS3, JavaScript, ReactJS, Redux, NodeJS, Express, SQL, Sequelize, PostgreSQL, MongoDB, Mongoose, Git y dispuesto a aprender nuevas tecnologías y lenguajes 🤓.
 
 </br>
 
