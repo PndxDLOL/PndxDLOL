@@ -27,10 +27,12 @@ Disfruto mucho del trabajo en equipo 🤝🏽, considero que es una parte vital 
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Emblem.jpg" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://mongoosejs.com/" target="_blank"> <img src="https://3987944058-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh2uMF0SeRmgQ9ESrbj%2F-Lh3BNps2alvubBYGzN1%2FScreen%20Shot%202019-06-10%20at%208.40.12%20PM.png?alt=media&token=b33b7f94-657f-4c88-b55c-8cbb586dfdea"  height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-- 💻👨‍💻🪜 Actualmente me encuentro aprendiendo: MongoDB, TypeSript y React Native. Y sigo formandome en:  React JS, Node JS, JavaScript, Express, PostgreSQL, Sequelize
-- ⏰😎🤓 Deseo aprender: AngularJS, Python, Java, PHP, Docker y las tecnologías que me permitan mejorar cada vez mpás
+- 💻👨‍💻🪜 Actualmente me encuentro aprendiendo: TypeSript y React Native. Y sigo formandome en:  React JS, Node JS, JavaScript, Express, PostgreSQL, Sequelize, MongoDB
+- ⏰😎🤓 Deseo aprender: AngularJS, Python, Java, PHP, Docker y las tecnologías que me permitan mejorar cada vez más
   
   </br>
   </br>
